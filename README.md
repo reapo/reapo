@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Reapo! 👋
 
-<!--
-**reapo/reapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Software Developer
+- 🌱 Currently learning how to make Android Widgets update my GitHub profile.
+- 📫 How to reach me: reapo@pm.me
 
-Here are some ideas to get you started:
+## My Skills
+- Programming Languages: C/C++, Kotlin/Java, Javascript, Python
+- Tools: DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reapo&show_icons=true&theme=radical)
