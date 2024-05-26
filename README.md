@@ -6,7 +6,7 @@
 - 📫 How to reach me: reapo@pm.me
 
 ## My Skills
-- Programming Languages: C/C++, Kotlin/Java, Javascript, Python
+- Programming Languages: C/C++, C#, Kotlin/Java, Javascript, Python
 - Tools: DevTools
 
 ## Stats
